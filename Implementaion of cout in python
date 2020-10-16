@@ -2,5 +2,5 @@ class Ostream:
     def __lshift__(self,other):
         print(other,end=" ")
         return self
-cout=Ostream()
-cout<<"Akash and Ashish M The great"
+cout<<"Archit and Anand M The great"
+cout<<"Archit and Ashish M The great"
